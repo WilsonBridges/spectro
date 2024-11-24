@@ -1,0 +1,1 @@
+Arduino based sensing program that takes the vibrational data from a piezo buzzer through a single transistor amplifier and puts it through the Fourier transform, plotting a spectrogram for frequency analysis.
